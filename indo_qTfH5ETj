@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RCTI 
+http://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Metro TV 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MNC TV 
+http://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Global TV 
+http://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Indosiar 
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SCTV 
+http://210.210.155.35/session/bf1a407a-c614-11e9-8b92-b82a72d63267/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ANTV 
+http://210.210.155.35/session/f46c91b8-b149-11e9-bbad-c81f66f89318/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Trans 7 
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TV One 
+http://210.210.155.35/session/bdf531da-c5b2-11e9-b6a3-c81f66f89318/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Trans TV 
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Elshinta TV
+http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Kompas TV 
+http://delivery-alana.stream.co.id/id_kompastv/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RTV
+http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Net TV
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",My TV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
