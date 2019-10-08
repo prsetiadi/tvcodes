@@ -1,0 +1,58 @@
+#EXTM3U
+####### KOREA #######
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",Sony One HD
+http://delivery.macan.live/stream/sonyone/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",K-Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",Gem TV Asia
+http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",TVN Movie
+http://delivery-alisha.stream.co.id/id_tvn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",KBS World
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",CHOSUN
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",Arirang
+http://delivery.macan.live/stream/arirang/index.m3u8?token=mSgcNbMn
+
+####### SINGAPORE #######
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",CH5
+http://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",CH8
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",CH U
+http://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",OKTO
+http://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",SURIA
+http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",VASANTHAM
+http://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",CNA
+http://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+
+####### FRANCE #######
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",France Ô
+http://163.172.43.207:8081/franceo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",France 2
+http://163.172.43.207:8081/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",France 3
+http://163.172.43.207:8081/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",France 4
+http://163.172.43.207:8081/france4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",France 5
+http://163.172.43.207:8081/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",Arte
+http://163.172.43.207:8081/arte/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",6ter
+http://163.172.43.207:8081/6ter/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",BFM Lyon
+http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
