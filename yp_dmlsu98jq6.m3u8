@@ -77,7 +77,7 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Kompas TV 
-http://delivery-alana.stream.co.id/id_kompastv/index.m3u8?token=mSgcNbMn
+http://delivery.macan.live/stream/id_kompastv/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RTV
 http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Net TV
@@ -123,7 +123,7 @@ http://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FX
 http://delivery.macan.live/stream/id_fx/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Star Chinese Movies
-http://delivery-alisha.stream.co.id/id_scm/index.m3u8?token=mSgcNbMn
+http://delivery.macan.live/stream/id_scm/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",AXN HD
@@ -261,7 +261,7 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",Gem TV Asia
 http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",TVN Movie
-http://delivery-alisha.stream.co.id/id_tvn/index.m3u8
+http://delivery.macan.live/stream/id_tvn/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",KBS World
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",CHOSUN
