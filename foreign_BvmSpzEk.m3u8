@@ -56,3 +56,65 @@ http://163.172.43.207:8081/6ter/live/playlist.m3u8
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",BFM Lyon
 http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+
+####### AUSTRALIA #######
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",ABC
+http://203.208.100.17:9981/stream/channelid/1798926010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",ABC HD
+http://203.208.100.17:9981/stream/channelid/822011981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",ABC Comedy/Kids
+http://203.208.100.17:9981/stream/channelid/207640363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",ABC ME
+http://203.208.100.17:9981/stream/channelid/1286932052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",7
+http://203.208.100.17:9981/stream/channelid/78620037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",7 HD
+http://203.208.100.17:9981/stream/channelid/351369755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",7TWO
+http://203.208.100.17:9981/stream/channelid/1218420122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",7mate
+http://203.208.100.17:9981/stream/channelid/1872313119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",7 food network
+http://203.208.100.17:9981/stream/channelid/358181410
+#EXTINF:-1 ttvg-id="" tvg-name="" vg-logo="" group-title="AUSTRALIA",7 flix
+http://203.208.100.17:9981/stream/channelid/485076498
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",9
+http://203.208.100.17:9981/stream/channelid/884222046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",9 HD
+http://203.208.100.17:9981/stream/channelid/194347985
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",9 Life
+http://203.122.193.228:9981/stream/channelid/470360276
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",9 Gem
+http://203.208.100.17:9981/stream/channelid/331586711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",9 Go!
+http://203.208.100.17:9981/stream/channelid/573072074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",10
+http://203.208.100.17:9981/stream/channelid/866502012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",10 HD
+http://203.208.100.17:9981/stream/channelid/1248054029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",10 BOLD
+http://203.208.100.17:9981/stream/channelid/1699844272
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",10 Peach
+http://203.208.100.17:9981/stream/channelid/765430526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",SBS One
+http://203.208.100.17:9981/stream/channelid/1437620401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",SBS Viceland
+http://203.208.100.17:9981/stream/channelid/786758472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",SBS World Movies
+http://203.208.100.17:9981/stream/channelid/1373228234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",SBS Food
+http://203.208.100.17:9981/stream/channelid/91130107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",44
+http://bdz47wk-lh.akamaihd.net/i/bdz47wk6avrot1_1@683133/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",Hill Song Channel
+http://220.158.149.14:9999/live/TV00000000000000000004@HHZT;LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",NITV
+http://203.208.100.17:9981/stream/channelid/1505839502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",C31
+http://203.208.100.17:9981/stream/channelid/1824365286
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
