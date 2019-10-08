@@ -57,6 +57,34 @@ http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FRANCE",BFM Lyon
 http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
 
+####### ITALIA #######
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai 1
+http://ott-cdn.ucom.am/s29/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai 2
+http://newstyle.loginto.me:8000/live/Q7QEt6Wgya/W4hiGUQBWe/26735.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai 5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAi Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",ETV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",m2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",Cafe 24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+
 ####### AUSTRALIA #######
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AUSTRALIA",ABC
 http://203.208.100.17:9981/stream/channelid/1798926010
