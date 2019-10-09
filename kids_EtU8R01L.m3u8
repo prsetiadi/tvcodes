@@ -2,14 +2,16 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",My Kids
 http://45.126.83.51/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney Channel
-http://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=mSgcNbMn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",DISNEY JUNIOR Indo
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney Junior
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",ANIMAX
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",ANIMAX BACKUP
 http://210.210.155.35/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",MIAO MI
-http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",BOOMERANG
 http://88.216.48.14:80/boomerang/live.m3u8
