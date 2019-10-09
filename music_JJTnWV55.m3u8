@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",MC Music Choice 
-http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", Channel V Int
-http://delivery.macan.live/stream/id_channelv/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",Karaoke Channel
@@ -24,48 +24,48 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE KITOTO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE MZIKI
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE NAIJA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE TOCA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", TRACE TROPICAL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", ZEROUNO TV
-http://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8
+https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", LEEEKO TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING HOTZ
-http://www.djing.com/tv/h-01-fta.m3u8
+https://www.djing.com/tv/h-01-fta.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING
-http://www.djing.com/tv/live.m3u8
+https://www.djing.com/tv/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING ANIMATION
-http://www.djing.com/tv/animation.m3u8
+https://www.djing.com/tv/animation.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING AVIICI
-http://www.djing.com/tv/session_avicii.m3u8
+https://www.djing.com/tv/session_avicii.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING CLASSIC
-http://www.djing.com/tv/classics.m3u8
+https://www.djing.com/tv/classics.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING HITS
-http://www.djing.com/tv/hits.m3u8
+https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING FLOOR
-http://djing.com/tv/dancefloor.m3u8
+https://djing.com/tv/dancefloor.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING ELECTRO ROCK
-http://www.djing.com/tv/session_electro-rock.m3u8
+https://www.djing.com/tv/session_electro-rock.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING FRENCH TOUCH
-http://www.djing.com/tv/session_french-touch.m3u8
+https://www.djing.com/tv/session_french-touch.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING HEDONIST
-http://www.djing.com/tv/session_hedonist.m3u8
+https://www.djing.com/tv/session_hedonist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING KARAOKE
-http://www.djing.com/tv/karaoke.m3u8
+https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING SUMMER VIBES
-http://www.djing.com/tv/session_summer-vibes.m3u8
+https://www.djing.com/tv/session_summer-vibes.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING UNDERGROUD
-http://www.djing.com/tv/underground.m3u8
+https://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", DJING WILD EDM
-http://www.djing.com/tv/session_wild-edm.m3u8
+https://www.djing.com/tv/session_wild-edm.m3u8
