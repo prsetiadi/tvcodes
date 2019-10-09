@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",MNC Sport
 http://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOX Sport 1
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=zaltv-free
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOX Sport 2
+https://delivery.macan.live/stream/id_foxsport2/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOX Sport 3
+https://delivery.macan.live/stream/id_foxsport3/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Fight Sport
+https://delivery.macan.live/stream/fightsport/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",bein Sports 1
 https://delivery.macan.live/stream/id_beinsports1/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",bein Sports 2
 https://delivery.macan.live/stream/id_beinsports2/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Premier League FHD
 https://delivery.macan.live/stream/se_viasat/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",BT Sports 1
+https://delivery.macan.live/stream/bt_sports_1/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",C MORE LIVE 3
 https://delivery.macan.live/stream/se_cmore3/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Setanta 1 SD
