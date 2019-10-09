@@ -8,35 +8,35 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO HD (EN)
-http://delivery.macan.live/stream/hbo_en/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/hbo_en/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Hits
-http://delivery.macan.live/stream/hbo_hits_en/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/hbo_hits_en/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Signature
-http://delivery.macan.live/stream/hbo_signature_en/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/hbo_signature_en/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
-http://delivery.macan.live/stream/hbo_family_en/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/hbo_family_en/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CINEMAX
 http://23.237.114.2:23455/791504032/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX HD
-http://delivery.macan.live/stream/id_fox/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX Crime
-http://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX Life
-http://delivery.macan.live/stream/id_foxlife/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX Movies 
-http://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX Action Movies
-http://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX Family Movies
-http://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FX
-http://delivery.macan.live/stream/id_fx/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Star Chinese Movies
-http://delivery-alisha.stream.co.id/id_scm/index.m3u8?token=mSgcNbMn
+https://delivery-alisha.stream.co.id/id_scm/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",AXN HD
-http://delivery.macan.live/stream/id_axn/index.m3u8?token=mSgcNbMn
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",KIX HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Thrill
