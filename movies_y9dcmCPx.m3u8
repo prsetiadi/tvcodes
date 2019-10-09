@@ -57,6 +57,12 @@ http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",SHOWTIME
+http://thenew.tv:8000/963125478/357951456/76
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",SHOWTIME 2
+http://thenew.tv:8000/963125478/357951456/77
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",STARZ
+http://thenew.tv:8000/963125478/357951456/80
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",MKC MOVIE 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",MKC MOVIE 2
