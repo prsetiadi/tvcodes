@@ -16,6 +16,8 @@ https://delivery.macan.live/stream/hbo_signature_en/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
 https://delivery.macan.live/stream/hbo_family_en/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CINEMAX
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CINEMAX BAK
 http://23.237.114.2:23455/791504032/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FOX HD
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=mSgcNbMn
