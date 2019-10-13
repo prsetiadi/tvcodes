@@ -1,9 +1,5 @@
 #EXTM3U
 ####### KOREA #######
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",Sony One 
-https://delivery.macan.live/stream/sonyone/index.m3u8?token=mSgcNbMn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",TVN Movie
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",K-Drama
@@ -16,8 +12,6 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOREA",Arirang
-http://delivery.macan.live/stream/arirang/index.m3u8?token=mSgcNbMn
 
 ####### SINGAPORE #######
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SINGAPORE",CH5
