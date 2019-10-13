@@ -3,10 +3,14 @@
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Berita Satu World 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNN Indonesia 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNBC Indonesia 
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",iNews HD
@@ -14,9 +18,9 @@ http://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",NHK World
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=mSgcNbMn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",BBC World News
-https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=mSgcNbMn
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Bloomberg
-https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=mSgcNbMn
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",NHK World BAK
