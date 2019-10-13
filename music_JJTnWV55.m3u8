@@ -3,8 +3,8 @@
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",MC Music Choice 
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC", Channel V Int
-https://delivery.macan.live/stream/id_channelv/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",Channel V Int
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=zaltv-free
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" group-title="MUSIC",Karaoke Channel
